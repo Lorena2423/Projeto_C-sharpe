@@ -170,3 +170,8 @@ Filtros de pesquisa de processos.
 Funcionalidade de distribuição de processos para outros procuradores.
 Anexar ou desanexar documentos aos processos.
 Consultar e visualizar processos de outros procuradores.
+
+
+
+![Diagrama de Entidade Relacionamento](imagens/Diagrama%20de%20entidade%20Relacionamento.drawio.png)
+
